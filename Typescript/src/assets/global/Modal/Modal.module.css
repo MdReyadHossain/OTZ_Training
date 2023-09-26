@@ -1,0 +1,13 @@
+.congratulations_modal_box {
+    text-align: center;
+    padding: 64px;
+}
+.congratulations_modal_box:focus {
+    outline: none !important;
+}
+.modalCloseIcon {
+    position: absolute !important;
+    right: 24px;
+    top: 24px;
+    padding: 0 !important;
+}

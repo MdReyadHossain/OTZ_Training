@@ -1,0 +1,16 @@
+/Backend
+/Frontend
+/Typescript/node_modules
+
+# dependencies
+/node_modules
+
+# testing
+/coverage
+
+# production
+/build
+
+# misc
+
+.env
